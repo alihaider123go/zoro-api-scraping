@@ -1,0 +1,201 @@
+itemNumber,price,freightCost/surcharge,eligibility(Promotion Restriction),category,brand,image,minRetailQty,Instock Qty,Shipping_date,date
+G2802685,7.95,0.0,YES,"Office, School & Shipping Supplies / Scissors, Cutters & Punchers / Scissors",Westward,Z-G8J0fo5oy.JPG,1,0,1,2024-08-26 18:05:49
+G4693351,35.99,0.0,YES,Heating & Cooling / HVAC Parts / Humidifier and Dehumidifier Parts,Fantech,Z_tLwvmcd59PIpHv.JPG,1,0,1,2024-08-26 18:05:50
+G4604801,20.65,0.0,YES,Tools & Machining / Hand Tools / Clamps / C Clamps,Kant-Twist,Z-rCrzncpEx_.JPG,1,0,1,2024-08-26 18:05:53
+G9501493,16.85,0.0,YES,Tools & Machining / Hand Tools / Hand Tool Parts / Wrench Parts,Posi Lock,Z1s2qtkcpIx_.JPG,1,0,1,2024-08-26 18:05:55
+G4405624,4.95,0.0,YES,Tools & Machining / Hand Tools / Specialty Safety Tools / Hand & Bowl Scoops,Remco,Z_w5wvkcpIx_.JPG,1,0,1,2024-08-26 18:05:58
+G5489456,61.65,0.0,YES,Hardware & Building Materials / Door Hardware & Components / Electromagnetic Locking Systems / Electromagnetic Lock Activation Devices,Safety Technology International,Z2q12tpcpEx_.JPG,1,0,1,2024-08-26 18:06:00
+G2802685,7.95,0.0,YES,"Office, School & Shipping Supplies / Scissors, Cutters & Punchers / Scissors",Westward,Z-G8J0fo5oy.JPG,1,300,1,2024-08-26 18:05:49
+G4693351,35.99,0.0,YES,Heating & Cooling / HVAC Parts / Humidifier and Dehumidifier Parts,Fantech,Z_tLwvmcd59PIpHv.JPG,1,300,1,2024-08-26 18:05:50
+G4604801,20.65,0.0,YES,Tools & Machining / Hand Tools / Clamps / C Clamps,Kant-Twist,Z-rCrzncpEx_.JPG,1,300,1,2024-08-26 18:05:53
+G4405624,4.95,0.0,YES,Tools & Machining / Hand Tools / Specialty Safety Tools / Hand & Bowl Scoops,Remco,Z_w5wvkcpIx_.JPG,1,300,1,2024-08-26 18:05:58
+G5306506,10.95,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knives",Westward,Z-qMB_qcdKLzEpHv.JPG,1,0,1,2024-08-26 18:06:48
+G4409535,28.15,0.0,YES,Hardware & Building Materials / Security Locks / Combination Padlocks,Abus,Z_s8w0mcpEx_.JPG,1,0,1,2024-08-26 18:06:50
+G2655601,12.99,0.0,YES,Safety / Personal Protective Equipment (PPE) / Gloves & Hand Protection / Cold Weather Gloves,Caiman,Z3oC5vpcpEx_.JPG,1,0,1,2024-08-26 18:06:53
+G5224414,3.35,0.0,YES,"Hardware & Building Materials / Door Hardware & Components / Door Accessories / Door Bottoms, Thresholds & Seals / Door Weatherstripping & Door Seals",Frost King,Z1rNwwhcpEx_.JPG,1,0,1,2024-08-26 18:06:58
+G9501493,16.85,0.0,YES,Tools & Machining / Hand Tools / Hand Tool Parts / Wrench Parts,Posi Lock,Z1s2qtkcpIx_.JPG,1,52,1,2024-08-26 18:05:55
+G3970274,7.15,0.0,YES,Safety / Personal Protective Equipment (PPE) / Eye Protection / Safety Glasses,Bolle Safety,Z2t3--ncpEx_.JPG,1,0,1,2024-08-26 18:07:23
+G5306506,10.95,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knives",Westward,Z-qMB_qcdKLzEpHv.JPG,1,300,1,2024-08-26 18:06:48
+G4409535,28.15,0.0,YES,Hardware & Building Materials / Security Locks / Combination Padlocks,Abus,Z_s8w0mcpEx_.JPG,1,300,1,2024-08-26 18:06:50
+G2655601,12.99,0.0,YES,Safety / Personal Protective Equipment (PPE) / Gloves & Hand Protection / Cold Weather Gloves,Caiman,Z3oC5vpcpEx_.JPG,1,300,1,2024-08-26 18:06:53
+G5224414,3.35,0.0,YES,"Hardware & Building Materials / Door Hardware & Components / Door Accessories / Door Bottoms, Thresholds & Seals / Door Weatherstripping & Door Seals",Frost King,Z1rNwwhcpEx_.JPG,1,300,1,2024-08-26 18:06:58
+G2498851,35.49,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Power Transmission Belts / V-Belts",Gates,Z_98Hxfo5oy.JPG,1,0,1,2024-08-26 18:07:44
+G1153485,40.25,0.0,YES,"Vehicle Maintenance / Automotive Brakes, Steering & Suspension / Automotive Brakes / Brake Parts",Weatherhead,Z-L9Kxfo5oy.JPG,1,0,1,2024-08-26 18:07:47
+G7825076,13.99,0.0,YES,"Tools & Machining / Hand Tools / Drywall and Plastering Tools / Putty & Joint Knives, Spatulas, Scrapers",Olfa,Z2rJ0ulcpEx-.JPG,1,0,1,2024-08-26 18:07:50
+G0847612,3.35,0.0,YES,Electrical Supplies / Data & Communication / Voice & Data Housings,Panduit,Z2LLy_fo5oy.JPG,1,0,1,2024-08-26 18:07:54
+G3970274,7.15,0.0,YES,Safety / Personal Protective Equipment (PPE) / Eye Protection / Safety Glasses,Bolle Safety,Z2t3--ncpEx_.JPG,1,300,1,2024-08-26 18:07:23
+G5489456,61.65,0.0,YES,Hardware & Building Materials / Door Hardware & Components / Electromagnetic Locking Systems / Electromagnetic Lock Activation Devices,Safety Technology International,Z2q12tpcpEx_.JPG,1,99,1,2024-08-26 18:06:00
+G4034694,196.99,0.0,YES,Electrical Supplies / Wiring Devices / Pin & Sleeve Devices / Hazardous Location Plugs,Appleton Electric,Z_pNrzkcpEx_.JPG,1,0,1,2024-08-26 18:08:22
+G0793457,9.99,0.0,NO,Plumbing / Plumbing Repair & Maintenance / Toilet Repair Parts,Oatey,Z16B9yfo5oz.JPG,1,0,1,2024-08-26 18:08:27
+G1153485,40.25,0.0,YES,"Vehicle Maintenance / Automotive Brakes, Steering & Suspension / Automotive Brakes / Brake Parts",Weatherhead,Z-L9Kxfo5oy.JPG,1,63,1,2024-08-26 18:07:47
+G7825076,13.99,0.0,YES,"Tools & Machining / Hand Tools / Drywall and Plastering Tools / Putty & Joint Knives, Spatulas, Scrapers",Olfa,Z2rJ0ulcpEx-.JPG,1,111,1,2024-08-26 18:07:50
+G1611395,51.29,0.0,YES,Hardware & Building Materials / Door Hardware & Components / Electromagnetic Locking Systems / Electromagnetic Lock Activation Devices,Bea,Z1t-I_mcpIx_.JPG,1,0,1,2024-08-26 18:09:30
+G0606401,28.35,0.0,YES,Electrical Supplies / Wiring Devices / Straight Blade Devices / Straight Blade Plugs,Hubbell,Z2Lzu0fo5oy.JPG,1,0,1,2024-08-26 18:09:33
+G2498851,35.49,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Power Transmission Belts / V-Belts",Gates,Z_98Hxfo5oy.JPG,1,118,1,2024-08-26 18:07:44
+G0793457,9.99,0.0,NO,Plumbing / Plumbing Repair & Maintenance / Toilet Repair Parts,Oatey,Z16B9yfo5oz.JPG,1,56,1,2024-08-26 18:08:27
+G4778891,7.59,0.0,YES,"Material Handling / Carts, Trucks, & Dollies / Hand Trucks & Dollies / Hand Trucks",Magliner,Z6yJ-vfo5oy.JPG,1,0,1,2024-08-26 18:09:57
+G9349252,30.99,0.0,YES,Storage & Workspace / Slatwalls & Pegboards / Slatwall Accessories / Slatwall Hooks,Flow Wall,Z0t2FypcpEx1.JPG,1,0,1,2024-08-26 18:10:09
+G1611395,51.29,0.0,YES,Hardware & Building Materials / Door Hardware & Components / Electromagnetic Locking Systems / Electromagnetic Lock Activation Devices,Bea,Z1t-I_mcpIx_.JPG,1,300,1,2024-08-26 18:09:30
+G0606401,28.35,0.0,YES,Electrical Supplies / Wiring Devices / Straight Blade Devices / Straight Blade Plugs,Hubbell,Z2Lzu0fo5oy.JPG,1,300,1,2024-08-26 18:09:33
+G4034694,196.99,0.0,YES,Electrical Supplies / Wiring Devices / Pin & Sleeve Devices / Hazardous Location Plugs,Appleton Electric,Z_pNrzkcpEx_.JPG,1,65,1,2024-08-26 18:08:22
+G5121566,7.15,0.0,YES,"Storage & Workspace / Storage Bins, Boxes & Totes / Bin & Box Accessories",Akro-Mils,Z1uJswncpEx_.JPG,1,0,1,2024-08-26 18:10:29
+G0517352,5.25,0.0,NO,"Plumbing / Pipes, Valves & Fittings / Plumbing Accessories / Pipe Test Plugs",Cherne,Z_HC1xfo5oy.JPG,1,0,1,2024-08-26 18:10:31
+G0464222,32.95,0.0,YES,Tools & Machining / Hand Tools / Clamps / Locking Clamps,Irwin,Z3_xuxfo5oy.JPG,1,0,1,2024-08-26 18:10:34
+G0847612,3.35,0.0,YES,Electrical Supplies / Data & Communication / Voice & Data Housings,Panduit,Z2LLy_fo5oy.JPG,1,121,1,2024-08-26 18:07:54
+G8817076,14.19,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Soldering Tips",Hakko,Z0qIHxncpEx_.JPG,1,0,1,2024-08-26 18:10:51
+G5121566,7.15,0.0,YES,"Storage & Workspace / Storage Bins, Boxes & Totes / Bin & Box Accessories",Akro-Mils,Z1uJswncpEx_.JPG,1,300,1,2024-08-26 18:10:29
+G0517352,5.25,0.0,NO,"Plumbing / Pipes, Valves & Fittings / Plumbing Accessories / Pipe Test Plugs",Cherne,Z_HC1xfo5oy.JPG,1,300,1,2024-08-26 18:10:31
+G0464222,32.95,0.0,YES,Tools & Machining / Hand Tools / Clamps / Locking Clamps,Irwin,Z3_xuxfo5oy.JPG,1,300,1,2024-08-26 18:10:34
+G1248265,11.99,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Ceramic Fuses,Eaton Bussmann,Z_zMsyfo5oy.JPG,1,0,1,2024-08-26 18:11:30
+G2879825,10.45,0.0,YES,Tools & Machining / Hand Tools / Hand Tool Parts / Cutter Parts,Westward,Z28Orxfo5oy.JPG,1,0,1,2024-08-26 18:11:33
+G1928796,18.79,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Glass Fuses,Eaton Bussmann,Z__Bq0fo5oy.JPG,1,0,1,2024-08-26 18:11:35
+G8817076,14.19,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Soldering Tips",Hakko,Z0qIHxncpEx_.JPG,1,52,1,2024-08-26 18:10:51
+G0648392,7.55,0.0,YES,Hardware & Building Materials / Key Control & Identification / Keys,Kaba Ilco,Z_2-D-fo5oy.JPG,1,0,1,2024-08-26 18:12:21
+G9349252,30.99,0.0,YES,Storage & Workspace / Slatwalls & Pegboards / Slatwall Accessories / Slatwall Hooks,Flow Wall,Z0t2FypcpEx1.JPG,1,29,1,2024-08-26 18:10:09
+G4468615,11.29,0.0,YES,Electrical Supplies / Data & Communication / Voice & Data Patch Cords,Monoprice,Z_sMpuicpIx_.JPG,1,0,1,2024-08-26 18:12:38
+G4778891,7.59,0.0,YES,"Material Handling / Carts, Trucks, & Dollies / Hand Trucks & Dollies / Hand Trucks",Magliner,Z6yJ-vfo5oy.JPG,1,174,1,2024-08-26 18:09:57
+G4468615,11.29,0.0,YES,Electrical Supplies / Data & Communication / Voice & Data Patch Cords,Monoprice,Z_sMpuicpIx_.JPG,1,0,1,2024-08-26 18:12:38
+G0278713,128.99,0.0,YES,Electrical Supplies / Industrial Control & Automation / Switches / Push Buttons & Indicators / Push Button Control Stations,Hubbell Wiring Device-Kellems,Z2_up_fo5oz.JPG,1,0,1,2024-08-26 18:12:57
+G1248265,11.99,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Ceramic Fuses,Eaton Bussmann,Z_zMsyfo5oy.JPG,1,104,1,2024-08-26 18:11:30
+G0648392,7.55,0.0,YES,Hardware & Building Materials / Key Control & Identification / Keys,Kaba Ilco,Z_2-D-fo5oy.JPG,1,300,1,2024-08-26 18:12:21
+G5431645,7.19,0.0,YES,Janitorial & Cleaning Supplies / Cleaning Supplies / Brushes,Vikan,Z2q66xlcpEx_.JPG,1,0,1,2024-08-26 18:13:10
+G0685194,4.55,0.0,YES,Electrical Supplies / Electrical Boxes & Covers / Electrical Boxes,Raco,Z1ytr0fo5oy.JPG,1,0,1,2024-08-26 18:13:15
+G2879825,10.45,0.0,YES,Tools & Machining / Hand Tools / Hand Tool Parts / Cutter Parts,Westward,Z28Orxfo5oy.JPG,1,138,1,2024-08-26 18:11:33
+G7367921,7.25,0.0,YES,Power Transmission / Fluids & Lubricants / Grease Fittings,Westward,Z2qCL_mcpEx_.JPG,1,0,1,2024-08-26 18:13:22
+G1424071,22.89,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knife Blades",Irwin,Z15-wvfo5o_.JPG,1,0,1,2024-08-26 18:13:32
+G1928796,18.79,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Glass Fuses,Eaton Bussmann,Z__Bq0fo5oy.JPG,1,3,1,2024-08-26 18:11:35
+G1118564,12.79,0.0,YES,Fasteners / Pins / Clevis Pins,Itw Bee Leitzke,Z_I51-fo5oy.JPG,1,0,1,2024-08-26 18:13:49
+G5431645,7.19,0.0,YES,Janitorial & Cleaning Supplies / Cleaning Supplies / Brushes,Vikan,Z2q66xlcpEx_.JPG,1,300,1,2024-08-26 18:13:10
+G0685194,4.55,0.0,YES,Electrical Supplies / Electrical Boxes & Covers / Electrical Boxes,Raco,Z1ytr0fo5oy.JPG,1,300,1,2024-08-26 18:13:15
+G7367921,7.25,0.0,YES,Power Transmission / Fluids & Lubricants / Grease Fittings,Westward,Z2qCL_mcpEx_.JPG,1,300,1,2024-08-26 18:13:22
+G1191942,20.19,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Compressed Air Dryers / Desiccant Dryers",Speedaire,Z3L1uwfo5oy.JPG,1,0,1,2024-08-26 18:14:06
+G9791975,7.15,0.0,YES,"Janitorial & Cleaning Supplies / Cleaning Supplies / Floor Mops, Buckets & Wringers / Dust Mop Accessories",Kraft Tool,Z0wAKylcpEx_.JPG,1,0,1,2024-08-26 18:14:10
+G1424071,22.89,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knife Blades",Irwin,Z15-wvfo5o_.JPG,1,300,1,2024-08-26 18:13:32
+G1209223,24.45,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Pillow Block & Flange Bearings / Flange Bearings",Dayton,Z1Jyq_fo5oy.JPG,1,0,1,2024-08-26 18:14:19
+G4782504,29.59,0.0,YES,Tools & Machining / Hand Tools / Pliers / Cutting Pliers,Knipex,Z_oIx_lcpEx_.JPG,1,0,1,2024-08-26 18:14:28
+G1191942,20.19,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Compressed Air Dryers / Desiccant Dryers",Speedaire,Z3L1uwfo5oy.JPG,1,300,1,2024-08-26 18:14:06
+G1209223,24.45,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Pillow Block & Flange Bearings / Flange Bearings",Dayton,Z1Jyq_fo5oy.JPG,1,300,1,2024-08-26 18:14:19
+G4875300,18.55,0.0,YES,"Tools & Machining / Measuring & Marking Tools / Measuring and Layout Tools / Squares, Bevels, and Stair Gauges",Empire Level,Z1sK5yqcpEx_.JPG,1,0,1,2024-08-26 18:15:06
+G3362003,0.99,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Coated Sanding Belts,Norton Abrasives,Z--wx_fo5oy.JPG,1,0,1,2024-08-26 18:15:17
+G0278713,128.99,0.0,YES,Electrical Supplies / Industrial Control & Automation / Switches / Push Buttons & Indicators / Push Button Control Stations,Hubbell Wiring Device-Kellems,Z2_up_fo5oz.JPG,1,98,1,2024-08-26 18:12:57
+G6106825,9.45,0.0,NO,Janitorial & Cleaning Supplies / Cleaning Chemicals / Septic & Drain Cleaners,Hercules,Z-o18upcpEx0.JPG,1,0,1,2024-08-26 18:15:35
+G1118564,12.79,0.0,YES,Fasteners / Pins / Clevis Pins,Itw Bee Leitzke,Z_I51-fo5oy.JPG,1,131,1,2024-08-26 18:13:49
+G9791975,7.15,0.0,YES,"Janitorial & Cleaning Supplies / Cleaning Supplies / Floor Mops, Buckets & Wringers / Dust Mop Accessories",Kraft Tool,Z0wAKylcpEx_.JPG,1,143,1,2024-08-26 18:14:10
+G9320166,32.95,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Abrasive Rolls,Norton Abrasives,Z0s1_0jcpEx_.JPG,1,0,1,2024-08-26 18:15:57
+G3362003,0.99,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Coated Sanding Belts,Norton Abrasives,Z--wx_fo5oy.JPG,1,300,1,2024-08-26 18:15:17
+G1150414,1.29,0.0,YES,Tools & Machining / Cutting Tools / Drill Bits / Screw Machine Length Drill Bits,Cle-Line,Z1y9rtfo5oy.JPG,1,0,1,2024-08-26 18:16:07
+G6123848,7.99,0.0,YES,"Office, School & Shipping Supplies / Pens, Pencils & Markers / Industrial Markers",Dykem,Z2q5K_icpEx_.JPG,1,0,1,2024-08-26 18:16:15
+G6106825,9.45,0.0,NO,Janitorial & Cleaning Supplies / Cleaning Chemicals / Septic & Drain Cleaners,Hercules,Z-o18upcpEx0.JPG,1,300,1,2024-08-26 18:15:35
+G7469948,7.65,0.0,YES,Vehicle Maintenance / Automotive Electrical & Lighting / Automotive Electrical / Automotive Horns & Accessories,Fiamm,Z2r1GwlcpEx_.JPG,1,0,1,2024-08-26 18:16:36
+G9320166,32.95,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Abrasive Rolls,Norton Abrasives,Z0s1_0jcpEx_.JPG,1,300,1,2024-08-26 18:15:57
+G1150414,1.29,0.0,YES,Tools & Machining / Cutting Tools / Drill Bits / Screw Machine Length Drill Bits,Cle-Line,Z1y9rtfo5oy.JPG,1,300,1,2024-08-26 18:16:07
+G3787360,7.75,0.0,NO,Adhesives & Tapes / Patching and Repairing Compounds / Repair Putties,Oatey,Z0x-90ocpEx_.JPG,1,0,1,2024-08-26 18:16:57
+G6123848,7.99,0.0,YES,"Office, School & Shipping Supplies / Pens, Pencils & Markers / Industrial Markers",Dykem,Z2q5K_icpEx_.JPG,1,300,1,2024-08-26 18:16:15
+G6101961,8.79,0.0,YES,Tools & Machining / Workholding & Machine Tool Accessories / Hand Knobs and Wheels / Cam Machine Handles,Kipp,Z-oLKwncpEx_.JPG,1,0,1,2024-08-26 18:17:06
+G4782504,29.59,0.0,YES,Tools & Machining / Hand Tools / Pliers / Cutting Pliers,Knipex,Z_oIx_lcpEx_.JPG,1,198,1,2024-08-26 18:14:28
+G1004647,29.89,0.0,YES,"Welding, Soldering & Brazing / Solders & Supplies / Solder Elements",Weller,Z3y_o-fo5oy.JPG,1,0,1,2024-08-26 18:17:14
+G4875300,18.55,0.0,YES,"Tools & Machining / Measuring & Marking Tools / Measuring and Layout Tools / Squares, Bevels, and Stair Gauges",Empire Level,Z1sK5yqcpEx_.JPG,1,59,1,2024-08-26 18:15:06
+G3523301,5.99,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Soldering Tips",Techspray,ZzorpypgdNmXUSnuhdDevxu9_8pcYp.JPG,1,0,1,2024-08-26 18:17:21
+G3195707,3.55,0.0,YES,Heating & Cooling / HVACR and Appliance Controls / Thermostats / Line Voltage Thermostats,Intermatic,Z-ss2tncpEx_.JPG,3,0,6,2024-08-26 18:17:28
+G3787360,7.75,0.0,NO,Adhesives & Tapes / Patching and Repairing Compounds / Repair Putties,Oatey,Z0x-90ocpEx_.JPG,1,300,1,2024-08-26 18:16:57
+G4323812,12.29,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Plain Bearings / Sleeve Bearings",Bunting Bearings,Z_rIswmcpEx_.JPG,1,0,1,2024-08-26 18:17:53
+G3523301,5.99,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Soldering Tips",Techspray,ZzorpypgdNmXUSnuhdDevxu9_8pcYp.JPG,1,300,1,2024-08-26 18:17:21
+G3195707,3.55,0.0,YES,Heating & Cooling / HVACR and Appliance Controls / Thermostats / Line Voltage Thermostats,Intermatic,Z-ss2tncpEx_.JPG,3,300,6,2024-08-26 18:17:28
+G7469948,7.65,0.0,YES,Vehicle Maintenance / Automotive Electrical & Lighting / Automotive Electrical / Automotive Horns & Accessories,Fiamm,Z2r1GwlcpEx_.JPG,1,44,1,2024-08-26 18:16:36
+G2448232,54.99,0.0,YES,Electrical Supplies / Wire Connectors & Terminals / Wire Connectors & Disconnects / Wire Terminals,Sta-Kon,Z1D5Kvfo5oy.JPG,1,0,1,2024-08-26 18:18:19
+G0152451,14.25,0.0,YES,Safety / Facility & Worksite Safety / Lockout Tagout / Lockout Padlocks,Abus,Z2G9D_fo5oy.JPG,1,0,1,2024-08-26 18:18:27
+G1085402,1.75,0.0,YES,Abrasives & Polishers / Deburring Abrasives & Tools / Mounted Points,Norton Abrasives,Z--zrzfo5oy.JPG,5,0,1,2024-08-26 18:18:30
+G2448232,54.99,0.0,YES,Electrical Supplies / Wire Connectors & Terminals / Wire Connectors & Disconnects / Wire Terminals,Sta-Kon,Z1D5Kvfo5oy.JPG,1,300,1,2024-08-26 18:18:19
+G4323812,12.29,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Plain Bearings / Sleeve Bearings",Bunting Bearings,Z_rIswmcpEx_.JPG,1,76,1,2024-08-26 18:17:53
+G6101961,8.79,0.0,YES,Tools & Machining / Workholding & Machine Tool Accessories / Hand Knobs and Wheels / Cam Machine Handles,Kipp,Z-oLKwncpEx_.JPG,1,59,1,2024-08-26 18:17:06
+G1272187,58.69,0.0,YES,Plumbing / Drinking Fountains & Water Coolers / Drinking Fountains & Water Cooler Parts,Elkay,Z2ICHyfo5oy.JPG,1,0,1,2024-08-26 18:19:18
+G6181187,8.39,0.0,YES,Tools & Machining / Hand Tools / Specialty Safety Tools / Hand Scrapers,Remco,Z2qLFzjcpEx0.JPG,1,0,1,2024-08-26 18:19:20
+G1004647,29.89,0.0,YES,"Welding, Soldering & Brazing / Solders & Supplies / Solder Elements",Weller,Z3y_o-fo5oy.JPG,1,92,1,2024-08-26 18:17:14
+G9992367,8.19,0.0,YES,Tools & Machining / Hand Tools / Inspection and Retrieving Tools / Hooks and Picks,Ullman,Z0wKKymcpEx_.JPG,1,0,1,2024-08-26 18:19:31
+G2567677,36.99,0.0,YES,"Plumbing / Pipes, Valves & Fittings / Valves / Check Valves",Viega,Z2GAJ-fo5oz.JPG,1,0,1,2024-08-26 18:19:38
+G1272187,58.69,0.0,YES,Plumbing / Drinking Fountains & Water Coolers / Drinking Fountains & Water Cooler Parts,Elkay,Z2ICHyfo5oy.JPG,1,300,1,2024-08-26 18:19:18
+G6181187,8.39,0.0,YES,Tools & Machining / Hand Tools / Specialty Safety Tools / Hand Scrapers,Remco,Z2qLFzjcpEx0.JPG,1,300,1,2024-08-26 18:19:20
+G9992367,8.19,0.0,YES,Tools & Machining / Hand Tools / Inspection and Retrieving Tools / Hooks and Picks,Ullman,Z0wKKymcpEx_.JPG,1,300,1,2024-08-26 18:19:31
+G3961982,20.95,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0G1J-fo9oy.JPG,1,0,1,2024-08-26 18:20:18
+G4329035,27.65,0.0,YES,Electrical Supplies / Industrial Control & Automation / Switches / Foot Switches,Linemaster,Grainger_TreadliteII.jpg,1,0,1,2024-08-26 18:20:20
+G2567677,36.99,0.0,YES,"Plumbing / Pipes, Valves & Fittings / Valves / Check Valves",Viega,Z2GAJ-fo5oz.JPG,1,300,1,2024-08-26 18:19:38
+G1085402,1.75,0.0,YES,Abrasives & Polishers / Deburring Abrasives & Tools / Mounted Points,Norton Abrasives,Z--zrzfo5oy.JPG,5,131,1,2024-08-26 18:18:30
+G3897232,12.15,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0H3F_fo5oy.JPG,1,0,1,2024-08-26 18:20:31
+G4278102,14.29,0.0,NO,"Welding, Soldering & Brazing / Solders & Supplies / Soldering Accessories",Techspray,Z0527zfo5oy.JPG,1,0,1,2024-08-26 18:20:38
+G0152451,14.25,0.0,YES,Safety / Facility & Worksite Safety / Lockout Tagout / Lockout Padlocks,Abus,Z2G9D_fo5oy.JPG,1,86,1,2024-08-26 18:18:27
+G2894455,15.99,0.0,YES,Tools & Machining / Power Tools and Accessories / Grinders & Accessories / Bench Grinder Accessories,Dayton,Z2BOBvfo5oy.JPG,1,0,1,2024-08-26 18:20:42
+G2995352,3.19,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Quick Change Discs,Norton Abrasives,Z2LGsufo5oy.JPG,1,0,1,2024-08-26 18:20:54
+G4329035,27.65,0.0,YES,Electrical Supplies / Industrial Control & Automation / Switches / Foot Switches,Linemaster,Grainger_TreadliteII.jpg,1,300,1,2024-08-26 18:20:20
+G3897232,12.15,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0H3F_fo5oy.JPG,1,300,1,2024-08-26 18:20:31
+G6103474,20.29,0.0,YES,Tools & Machining / Machining / Drill Bit Cases & Cabinets,Huot,Z_w3_ypcpEx_.JPG,1,0,1,2024-08-26 18:21:18
+G2894455,15.99,0.0,YES,Tools & Machining / Power Tools and Accessories / Grinders & Accessories / Bench Grinder Accessories,Dayton,Z2BOBvfo5oy.JPG,1,300,1,2024-08-26 18:20:42
+G3944631,26.19,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0H3F_fo5oy.JPG,1,0,1,2024-08-26 18:21:28
+G2995352,3.19,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Quick Change Discs,Norton Abrasives,Z2LGsufo5oy.JPG,1,300,1,2024-08-26 18:20:54
+G4138233,2.39,0.0,YES,Safety / Personal Protective Equipment (PPE) / Hearing Protection / Ear Plugs,Tasco,Z39J0yfo5oy.JPG,1,0,1,2024-08-26 18:21:40
+G3961982,20.95,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0G1J-fo9oy.JPG,1,152,1,2024-08-26 18:20:18
+G9462621,17.29,0.0,YES,Safety / Facility & Worksite Safety / Eyewash Stations and Shower Equipment / Eyewash and Shower Parts and Accessories,Haws,Z0DK1xfo5oy.JPG,1,0,1,2024-08-26 18:21:52
+G4233223,39.39,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Pneumatic Valves / Manual Air Control Valves",Pneumadyne,Z_s4q_mcpEx_.JPG,1,0,1,2024-08-26 18:21:58
+G6103474,20.29,0.0,YES,Tools & Machining / Machining / Drill Bit Cases & Cabinets,Huot,Z_w3_ypcpEx_.JPG,1,300,1,2024-08-26 18:21:18
+G2238302,31.89,0.0,YES,Abrasives & Polishers / Sharpening Abrasives / Sharpening Files,Norton Abrasives,Z_6N0_fo5oy.JPG,1,0,1,2024-08-26 18:22:15
+G4138233,2.39,0.0,YES,Safety / Personal Protective Equipment (PPE) / Hearing Protection / Ear Plugs,Tasco,Z39J0yfo5oy.JPG,1,300,1,2024-08-26 18:21:40
+G9462621,17.29,0.0,YES,Safety / Facility & Worksite Safety / Eyewash Stations and Shower Equipment / Eyewash and Shower Parts and Accessories,Haws,Z0DK1xfo5oy.JPG,1,300,1,2024-08-26 18:21:52
+G4576979,21.19,0.0,YES,Safety / Facility & Worksite Safety / Safety Alarms and Warnings / Audible & Visual Signaling Devices,Speco Technologies,Z1x1yulcpEx_.JPG,1,0,1,2024-08-26 18:22:36
+G1008646,17.45,0.0,YES,Heating & Cooling / Heating Equipment / Heaters & Furnaces / Oil Burners & Accessories / Oil Burner Parts,Delavan,Z0y-0zfo5oy.JPG,1,0,1,2024-08-26 18:22:46
+G4278102,14.29,0.0,NO,"Welding, Soldering & Brazing / Solders & Supplies / Soldering Accessories",Techspray,Z0527zfo5oy.JPG,1,174,1,2024-08-26 18:20:38
+G4576979,21.19,0.0,YES,Safety / Facility & Worksite Safety / Safety Alarms and Warnings / Audible & Visual Signaling Devices,Speco Technologies,Z1x1yulcpEx_.JPG,1,300,1,2024-08-26 18:22:36
+G2674131,15.35,0.0,YES,Electrical Supplies / Wire & Cable / Extension Cords & Power Strips / Power Strips,Tripp Lite,Z1362xfo5oy.JPG,1,0,1,2024-08-26 18:23:29
+G2955027,14.59,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Compressor, Air Tank & Pneumatic Tool Parts / Pneumatic Parts",Reelcraft,Z-rA1xlcpIx_.JPG,1,0,1,2024-08-26 18:23:34
+G3944631,26.19,0.0,YES,Lab Equipment & Supplies / Lab Supplies & Consumables / Chemical Test Strips,Industrial Test Systems,Z0H3F_fo5oy.JPG,1,92,1,2024-08-26 18:21:28
+G6166641,3.99,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Hose Fittings / Quick Connect Fittings",Hansen,Z0p2otocpEx_.JPG,1,0,1,2024-08-26 18:23:49
+G2238302,31.89,0.0,YES,Abrasives & Polishers / Sharpening Abrasives / Sharpening Files,Norton Abrasives,Z_6N0_fo5oy.JPG,1,90,1,2024-08-26 18:22:15
+G2358517,9.65,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knives",Westward,Z__CLufo5oy.JPG,1,0,1,2024-08-26 18:24:10
+G2674131,15.35,0.0,YES,Electrical Supplies / Wire & Cable / Extension Cords & Power Strips / Power Strips,Tripp Lite,Z1362xfo5oy.JPG,1,300,1,2024-08-26 18:23:29
+G4233223,39.39,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Pneumatic Valves / Manual Air Control Valves",Pneumadyne,Z_s4q_mcpEx_.JPG,1,34,1,2024-08-26 18:21:58
+G0261012,25.19,0.0,YES,Tools & Machining / Power Tools and Accessories / Power Saw Blades / Band Saw Blades,Morse,Z1I3svfo5oy.JPG,1,0,1,2024-08-26 18:24:25
+G1008646,17.45,0.0,YES,Heating & Cooling / Heating Equipment / Heaters & Furnaces / Oil Burners & Accessories / Oil Burner Parts,Delavan,Z0y-0zfo5oy.JPG,1,31,1,2024-08-26 18:22:46
+G6166641,3.99,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Hose Fittings / Quick Connect Fittings",Hansen,Z0p2otocpEx_.JPG,1,300,1,2024-08-26 18:23:49
+G7575294,7.4,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Welding Tips",Firepower,Z-t2HwkcpEx_.JPG,1,0,1,2024-08-26 18:24:33
+G1026383,7.35,0.0,YES,Tools & Machining / Cutting Tools / Drill Bit and Tap Sets,Westward,Z30M9tfo5oy.JPG,1,0,1,2024-08-26 18:24:40
+G2152046,14.39,0.0,YES,Safety / Personal Protective Equipment (PPE) / Gloves & Hand Protection / Welding Gloves,Caiman,Z1xv9wocpEx_.JPG,1,0,1,2024-08-26 18:24:45
+G2358517,9.65,0.0,YES,"Tools & Machining / Hand Tools / Knives, Cutters & Snips / Utility Knives",Westward,Z__CLufo5oy.JPG,1,300,1,2024-08-26 18:24:10
+G8497115,3.15,0.0,YES,Heating & Cooling / Fans / Axial Fans and Accessories,Dayton,Z0p1_yqcpEx-.JPG,1,0,1,2024-08-26 18:25:03
+G7575294,7.4,0.0,YES,"Welding, Soldering & Brazing / Welding Parts & Supplies / Welding Tips",Firepower,Z-t2HwkcpEx_.JPG,1,300,1,2024-08-26 18:24:33
+G1026383,7.35,0.0,YES,Tools & Machining / Cutting Tools / Drill Bit and Tap Sets,Westward,Z30M9tfo5oy.JPG,1,300,1,2024-08-26 18:24:40
+G2152046,14.39,0.0,YES,Safety / Personal Protective Equipment (PPE) / Gloves & Hand Protection / Welding Gloves,Caiman,Z1xv9wocpEx_.JPG,1,300,1,2024-08-26 18:24:45
+G4693351,35.99,0.0,YES,Heating & Cooling / HVAC Parts / Humidifier and Dehumidifier Parts,Fantech,Z_tLwvmcd59PIpHv.JPG,1,0,1,2024-08-26 18:25:33
+G0277733,13.19,0.0,YES,Heating & Cooling / Heating Equipment / Heaters & Furnaces / Electric Heaters & Accessories / Electric Heater Accessories / Electric Baseboard Heater Accessories,Dayton,Z0G6o_fo5oy.JPG,1,0,1,2024-08-26 18:25:38
+G2955027,14.59,0.0,YES,"Power Transmission / Compressors, Air Tanks & Pneumatic Parts / Compressor, Air Tank & Pneumatic Tool Parts / Pneumatic Parts",Reelcraft,Z-rA1xlcpIx_.JPG,1,71,1,2024-08-26 18:23:34
+G0282265,7.69,0.0,YES,Electrical Supplies / Electrical Boxes & Covers / Electrical Box Hardware,Raco,Z--1Fzfo5oy.JPG,1,0,1,2024-08-26 18:25:44
+G8497115,3.15,0.0,YES,Heating & Cooling / Fans / Axial Fans and Accessories,Dayton,Z0p1_yqcpEx-.JPG,1,300,1,2024-08-26 18:25:03
+G4043864,7.19,0.0,YES,Vehicle Maintenance / Automotive Service & Shop Tools / Service & Shop Tools / Lug Nut Wrenches,Phoenix,Z0K4Iyfo5oy.JPG,1,0,1,2024-08-26 18:25:54
+G9680730,18.75,0.0,NO,"Welding, Soldering & Brazing / Welding Protection / Welding Helmet Accessories",Miller Electric,Z2sIyuncpIx_.JPG,1,0,1,2024-08-26 18:26:01
+G0261012,25.19,0.0,YES,Tools & Machining / Power Tools and Accessories / Power Saw Blades / Band Saw Blades,Morse,Z1I3svfo5oy.JPG,1,78,1,2024-08-26 18:24:25
+G4693351,35.99,0.0,YES,Heating & Cooling / HVAC Parts / Humidifier and Dehumidifier Parts,Fantech,Z_tLwvmcd59PIpHv.JPG,1,300,1,2024-08-26 18:25:33
+G0694321,7.95,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Adhesive Discs,Norton Abrasives,Z3yrqyfo5oy.JPG,1,0,1,2024-08-26 18:26:15
+G0277733,13.19,0.0,YES,Heating & Cooling / Heating Equipment / Heaters & Furnaces / Electric Heaters & Accessories / Electric Heater Accessories / Electric Baseboard Heater Accessories,Dayton,Z0G6o_fo5oy.JPG,1,300,1,2024-08-26 18:25:38
+G2287144,8.15,0.0,YES,Adhesives & Tapes / Tapes / Duct Tapes,Nashua,Z-Iwovfo5oy.JPG,1,0,1,2024-08-26 18:26:26
+G6208894,7.15,0.0,YES,Power Transmission / Motors / Motor Capacitors / Motor Run Capacitors,Titan Hd,Z-oJ-vlcpEx_.JPG,1,0,1,2024-08-26 18:26:33
+G4043864,7.19,0.0,YES,Vehicle Maintenance / Automotive Service & Shop Tools / Service & Shop Tools / Lug Nut Wrenches,Phoenix,Z0K4Iyfo5oy.JPG,1,300,1,2024-08-26 18:25:54
+G9680730,18.75,0.0,NO,"Welding, Soldering & Brazing / Welding Protection / Welding Helmet Accessories",Miller Electric,Z2sIyuncpIx_.JPG,1,300,1,2024-08-26 18:26:01
+G2684333,3.65,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Glass Fuses,Eaton Bussmann,Z1J6r-fo5oy.JPG,1,0,1,2024-08-26 18:26:50
+G5037663,26.49,0.0,YES,Plumbing / Faucets / Kitchen Faucets & Accessories / Water Supply Nozzles,Sani-Lav,Z1p8svpcpEx_.JPG,1,0,1,2024-08-26 18:26:56
+G0694321,7.95,0.0,YES,Abrasives & Polishers / Sanding Abrasives / Adhesive Discs,Norton Abrasives,Z3yrqyfo5oy.JPG,1,300,1,2024-08-26 18:26:15
+G2287144,8.15,0.0,YES,Adhesives & Tapes / Tapes / Duct Tapes,Nashua,Z-Iwovfo5oy.JPG,1,300,1,2024-08-26 18:26:26
+G4446759,79.29,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Pulleys & Sheaves / V-Belt Pulleys",Congress,Z1Jwutfo9oy.JPG,1,0,1,2024-08-26 18:27:13
+G6208894,7.15,0.0,YES,Power Transmission / Motors / Motor Capacitors / Motor Run Capacitors,Titan Hd,Z-oJ-vlcpEx_.JPG,1,300,1,2024-08-26 18:26:33
+G0282265,7.69,0.0,YES,Electrical Supplies / Electrical Boxes & Covers / Electrical Box Hardware,Raco,Z--1Fzfo5oy.JPG,1,0,1,2024-08-26 18:25:44
+G4675115,71.35,0.0,YES,Lab Equipment & Supplies / Lab Instruments / Water Quality Testing / Water Testing Meter Accessories,Oakton,Z69JItfo9oy.JPG,1,0,1,2024-08-26 18:27:23
+G0364384,51.49,0.0,YES,Raw Materials / Stainless Steel / Stainless Steel Music Wire,Zoro Select,Z07wrvfo5oy.JPG,1,0,1,2024-08-26 18:27:30
+G2684333,3.65,0.0,YES,Electrical Supplies / Fuses & Accessories / Fuses / Glass Fuses,Eaton Bussmann,Z1J6r-fo5oy.JPG,1,300,1,2024-08-26 18:26:50
+G2036511,49.55,0.0,YES,Plumbing / Plumbing Repair & Maintenance / Plumbing Parts & Accessories / Cartridges and Stems,T&S Brass,Z1q1JwpcpEx_.JPG,1,0,1,2024-08-26 18:27:35
+G5037663,26.49,0.0,YES,Plumbing / Faucets / Kitchen Faucets & Accessories / Water Supply Nozzles,Sani-Lav,Z1p8svpcpEx_.JPG,1,300,1,2024-08-26 18:26:56
+G2401077,12.85,0.0,YES,"Office, School & Shipping Supplies / Shipping & Packing Supplies / Strapping / Steel Strapping Seals",Zoro Select,Z0_IHxfo5oy.JPG,1,0,1,2024-08-26 18:27:47
+G5287764,44.15,0.0,YES,Heating & Cooling / HVACR and Appliance Controls / Controls / Fan Speed Control,Dayton,Z1w1p_jcpIx_.JPG,1,0,1,2024-08-26 18:27:54
+G2401077,12.85,0.0,YES,"Office, School & Shipping Supplies / Shipping & Packing Supplies / Strapping / Steel Strapping Seals",Zoro Select,Z0_IHxfo5oy.JPG,1,300,1,2024-08-26 18:27:47
+G5287764,44.15,0.0,YES,Heating & Cooling / HVACR and Appliance Controls / Controls / Fan Speed Control,Dayton,Z1w1p_jcpIx_.JPG,1,300,1,2024-08-26 18:27:54
+G2623932,25.29,0.0,YES,Plumbing / Faucets / Faucet Repair and Maintenance,T&S Brass,Z1J97vfo5oy.JPG,1,0,1,2024-08-26 18:28:44
+G4446759,79.29,0.0,YES,"Power Transmission / Bearings, V-belts & Power Transmission Equipment / Pulleys & Sheaves / V-Belt Pulleys",Congress,Z1Jwutfo9oy.JPG,1,58,1,2024-08-26 18:27:13
+G0364384,51.49,0.0,YES,Raw Materials / Stainless Steel / Stainless Steel Music Wire,Zoro Select,Z07wrvfo5oy.JPG,1,55,1,2024-08-26 18:27:30
+G2036511,49.55,0.0,YES,Plumbing / Plumbing Repair & Maintenance / Plumbing Parts & Accessories / Cartridges and Stems,T&S Brass,Z1q1JwpcpEx_.JPG,1,84,1,2024-08-26 18:27:35
+G4675115,71.35,0.0,YES,Lab Equipment & Supplies / Lab Instruments / Water Quality Testing / Water Testing Meter Accessories,Oakton,Z69JItfo9oy.JPG,1,21,1,2024-08-26 18:27:23
+G2623932,25.29,0.0,YES,Plumbing / Faucets / Faucet Repair and Maintenance,T&S Brass,Z1J97vfo5oy.JPG,1,133,1,2024-08-26 18:28:44
